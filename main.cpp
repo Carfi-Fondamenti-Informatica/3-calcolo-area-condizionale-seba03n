@@ -2,7 +2,7 @@
 
 int main() {
    
-   float a,b ;
+   float a= 0,b= 0;
    int opzione;
    
    cin >> a >> b >> opzione;
