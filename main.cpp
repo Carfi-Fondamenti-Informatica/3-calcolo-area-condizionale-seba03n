@@ -20,6 +20,8 @@ int main() {
       cout << a*b << endl;
       break;
       
+    default :
+      cout << "opzione non valida";   
    }
    return 0;
 }
