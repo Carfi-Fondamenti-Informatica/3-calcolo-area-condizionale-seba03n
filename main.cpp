@@ -9,15 +9,15 @@ int main() {
    cin >> a >> b >> opzione;
    swith (opzione){
    case 0:
-      cout << (a*b)/2 << endl;
+      cout << (a*b)/2;
       break;
       
    case 1:
-      cout << a*a << endl;
+      cout << a*a;
       break;
       
    case 2:
-      cout << a*b << endl;
+      cout << a*b;
       break;
       
     default :
